@@ -1,0 +1,31 @@
+/* Stylesheet */
+
+h1{
+	background:RGB(193, 199, 238);
+	font-style:italic;
+}
+
+h2{
+	background:RGB(193, 199, 238);
+	font-style:italic;
+}
+
+span{
+	font-weight:bold;
+}
+
+p{
+	background:RGB(240, 240, 255);
+}
+
+ol{
+	background:RGB(240, 240, 255);
+}
+
+ul{
+	background:RGB(240, 240, 255);
+}
+
+#back{
+	background:RGB(240, 240, 255);
+}
